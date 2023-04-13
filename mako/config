@@ -1,0 +1,9 @@
+font=SourceCodePro
+
+background-color=#1A1C1D
+
+text-color=#C1BCB4
+
+max-visible=8
+
+default-timeout=5000
