@@ -1,0 +1,44 @@
+
+window {
+    background-color: #222222;
+    border: 2px solid #999;
+    border-radius: 10px;
+}
+
+#outer-box {
+    padding: 10px;
+}
+
+#input {
+    background-color: #333333;
+    color: #ffffff;
+    font-size: 16px;
+    border: 1px solid #555555;
+    border-radius: 30px;
+}
+
+#list {
+    background-color: #333333;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+#list > box {
+    padding: 5px;
+}
+
+#list > box:selected {
+    background-color: #444444;
+}
+
+#scroll {
+    background-color: #333333;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+#scroll > box {
+    background-color: #555555;
+
+}
+
