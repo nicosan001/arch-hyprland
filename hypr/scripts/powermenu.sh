@@ -14,6 +14,6 @@ case $op in
 		            ~/.config/sway/scripts/lock.sh
                 ;;
         logout)
-                swaymsg exit
+                hyprctl dispatch exit
                 ;;
 esac
