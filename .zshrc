@@ -125,8 +125,9 @@ alias btctl="bluetoothctl"
 alias shot="slurp | grim -g - - | wl-copy"
 alias mpv="mpv --script-opts=ytdl_hook-ytdl_path=yt-dlp"
 alias g++="g++ -std=c++11 -O2 -Wextra"
-alias polkit-stuff="xhost si:localuser:root"
-alias yt="ytfzf -t -s --thumb-viewer=swayimg-hyprland --pages=4"
+alias xhost-stuff="xhost si:localuser:root"
+alias yt="ytfzf -t -s --thumb-viewer=swayimg-hyprland"
+alias yt4="ytfzf -t -s --thumb-viewer=swayimg-hyprland --pages=4"
 alias lg="lazygit"
 
 # auto add some keys
