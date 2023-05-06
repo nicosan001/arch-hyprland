@@ -20,6 +20,6 @@ background_opacity 0.5
 
 
 # BEGIN_KITTY_THEME
-# Arthur
+# Cyberpunk
 include current-theme.conf
 # END_KITTY_THEME
