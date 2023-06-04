@@ -51,7 +51,7 @@
      },
      "memory": {
 	"tooltip": false,
-	"format": " {}%"
+	"format": "󰍛 {}%"
      },
      "hyprland/window": {
         "format": "👉 {}",

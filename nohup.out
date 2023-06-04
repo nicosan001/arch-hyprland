@@ -1,0 +1,1986 @@
+[2023-06-04 13:30:48.649] [info] Using configuration file /home/watermellon/.config/waybar/config
+[2023-06-04 13:30:48.649] [info] Using CSS file /home/watermellon/.config/waybar/style.css
+[2023-06-04 13:30:48.658] [warning] As using a timezone, some format args may be missing as the date library haven't got a release since 2018.
+
+(waybar:37899): GLib-GObject-CRITICAL **: 13:30:48.683: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '73'
+
+(waybar:37899): GLib-GObject-CRITICAL **: 13:30:48.683: ../glib/gobject/gsignal.c:2088: type 'GtkWindow' is already overridden for signal id '72'
+[2023-06-04 13:30:48.695] [warning] As using a timezone, some format args may be missing as the date library haven't got a release since 2018.
+[2023-06-04 13:30:48.981] [info] Bar configured (width: 1920, height: 32) for output: HDMI-A-2
+[2023-06-04 13:30:48.981] [info] Bar configured (width: 1536, height: 32) for output: eDP-1
+[2023-06-04 13:30:48.997] [info] Bar configured (width: 1920, height: 32) for output: HDMI-A-2
+[2023-06-04 13:30:49.664] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:30:49.694] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:30:54.665] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:30:54.695] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:30:59.670] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:30:59.698] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:04.672] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:04.698] [error] mpd: Failed to connect to MPD: Connection refused
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1500 (99%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+[2023-06-04 13:31:09.676] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:09.700] [error] mpd: Failed to connect to MPD: Connection refused
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1500 (99%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1485 (98%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1470 (97%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1455 (96%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1440 (95%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1425 (94%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1410 (93%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1395 (92%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1380 (91%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1365 (90%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1350 (89%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1335 (88%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1320 (87%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1305 (86%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1290 (85%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1275 (84%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1260 (83%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1245 (82%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1245 (82%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1230 (81%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1215 (80%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1200 (79%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1200 (79%)
+	Max brightness: 1515
+
+[2023-06-04 13:31:14.676] [error] mpd: Failed to connect to MPD: Connection refused
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1185 (78%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1185 (78%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1170 (77%)
+	Max brightness: 1515
+
+[2023-06-04 13:31:14.701] [error] mpd: Failed to connect to MPD: Connection refused
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1155 (76%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1140 (75%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1140 (75%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1125 (74%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1110 (73%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1095 (72%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1080 (71%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1080 (71%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1065 (70%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1065 (70%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1065 (70%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1050 (69%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1035 (68%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1020 (67%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1005 (66%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 990 (65%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 975 (64%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 960 (63%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 945 (62%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 930 (61%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 915 (60%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 900 (59%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 885 (58%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 870 (57%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 855 (56%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 840 (55%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 825 (54%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 810 (53%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 795 (52%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 780 (51%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 765 (50%)
+	Max brightness: 1515
+
+[2023-06-04 13:31:19.679] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:19.702] [error] mpd: Failed to connect to MPD: Connection refused
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 750 (50%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 735 (49%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 720 (48%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 720 (48%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 705 (47%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 690 (46%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 675 (45%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 660 (44%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 645 (43%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 630 (42%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 615 (41%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 600 (40%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 585 (39%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 570 (38%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 555 (37%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 540 (36%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 525 (35%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 510 (34%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 495 (33%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 480 (32%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 465 (31%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 450 (30%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 435 (29%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 420 (28%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 405 (27%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 390 (26%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 375 (25%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 360 (24%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 360 (24%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 345 (23%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 345 (23%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 330 (22%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 330 (22%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 315 (21%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 300 (20%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 285 (19%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 270 (18%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 255 (17%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 240 (16%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 225 (15%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 210 (14%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 195 (13%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 180 (12%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 165 (11%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 150 (10%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 135 (9%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120 (8%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 105 (7%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 90 (6%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 75 (5%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 60 (4%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 45 (3%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 30 (2%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 15 (1%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 0 (0%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 15 (1%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 30 (2%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 45 (3%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 60 (4%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 75 (5%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 90 (6%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 105 (7%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 120 (8%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 135 (9%)
+	Max brightness: 1515
+
+[2023-06-04 13:31:24.683] [error] mpd: Failed to connect to MPD: Connection refused
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 150 (10%)
+	Max brightness: 1515
+
+[2023-06-04 13:31:24.705] [error] mpd: Failed to connect to MPD: Connection refused
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 165 (11%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 180 (12%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 195 (13%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 210 (14%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 225 (15%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 240 (16%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 255 (17%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 270 (18%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 285 (19%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 300 (20%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 315 (21%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 330 (22%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 345 (23%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 360 (24%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 375 (25%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 390 (26%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 405 (27%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 420 (28%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 435 (29%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 450 (30%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 465 (31%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 480 (32%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 495 (33%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 510 (34%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 525 (35%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 540 (36%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 555 (37%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 570 (38%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 585 (39%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 600 (40%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 615 (41%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 630 (42%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 645 (43%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 660 (44%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 675 (45%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 690 (46%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 705 (47%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 720 (48%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 735 (49%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 750 (50%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 765 (50%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 780 (51%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 795 (52%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 810 (53%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 825 (54%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 840 (55%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 855 (56%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 870 (57%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 885 (58%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 900 (59%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 915 (60%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 930 (61%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 945 (62%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 960 (63%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 975 (64%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 990 (65%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1005 (66%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1020 (67%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1035 (68%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1050 (69%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1065 (70%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1080 (71%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1095 (72%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1110 (73%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1125 (74%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1140 (75%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1155 (76%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1170 (77%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1185 (78%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1200 (79%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1215 (80%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1230 (81%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1245 (82%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1260 (83%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1275 (84%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1290 (85%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1305 (86%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1320 (87%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1335 (88%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1350 (89%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1365 (90%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1380 (91%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1395 (92%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1410 (93%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1425 (94%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1440 (95%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1455 (96%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1470 (97%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1485 (98%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1500 (99%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+Updated device 'intel_backlight':
+Device 'intel_backlight' of class 'backlight':
+	Current brightness: 1515 (100%)
+	Max brightness: 1515
+
+[2023-06-04 13:31:29.687] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:29.708] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:34.690] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:34.710] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:39.696] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:39.712] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:44.702] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:44.714] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:49.708] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:49.716] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:54.719] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:54.719] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:59.723] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:31:59.724] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:04.734] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:04.734] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:09.736] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:09.736] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:14.743] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:14.744] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:19.748] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:19.749] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:24.755] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:24.756] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:29.759] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:29.760] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:34.769] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:34.770] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:39.773] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:39.774] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:44.779] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:44.780] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:49.783] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:49.784] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:54.792] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:54.792] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:59.796] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:32:59.796] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:04.805] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:04.806] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:09.809] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:09.810] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:14.816] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:14.817] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:19.819] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:19.820] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:24.826] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:24.827] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:29.829] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:29.829] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:34.837] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:34.838] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:39.841] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:39.842] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:44.847] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:44.848] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:49.849] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:49.850] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:54.855] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:54.856] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:59.858] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:33:59.859] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:04.863] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:04.863] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:09.865] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:09.866] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:14.869] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:14.869] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:19.872] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:19.873] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:24.879] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:24.880] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:29.881] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:29.882] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:34.886] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:34.887] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:39.887] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:39.888] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:44.892] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:44.893] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:49.898] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:49.899] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:54.905] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:54.905] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:59.908] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:34:59.909] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:04.914] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:04.915] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:09.922] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:09.923] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:14.929] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:14.929] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:19.936] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:19.937] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:24.942] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:24.943] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:29.949] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:29.950] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:34.954] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:34.955] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:39.962] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:39.963] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:44.968] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:44.968] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:49.975] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:49.976] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:54.979] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:54.980] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:59.985] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:35:59.985] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:04.988] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:04.989] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:09.996] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:09.996] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:14.999] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:14.999] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:20.006] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:20.007] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:25.009] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:25.010] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:30.015] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:30.016] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:35.019] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:35.020] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:40.026] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:40.026] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:45.030] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:45.031] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:50.035] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:50.036] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:55.039] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:36:55.040] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:00.040] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:00.041] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:05.043] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:05.044] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:10.052] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:10.053] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:15.055] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:15.056] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:20.063] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:20.063] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:25.066] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:25.067] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:30.072] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:30.073] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:35.074] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:35.075] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:40.082] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:40.082] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:45.084] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:45.085] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:50.090] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:50.091] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:55.092] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:37:55.093] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:00.094] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:00.095] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:05.096] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:05.097] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:10.102] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:10.103] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:15.104] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:15.105] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:20.111] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:20.112] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:25.113] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:25.113] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:30.116] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:30.116] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:35.117] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:35.118] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:40.122] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:40.123] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:45.124] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:45.125] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:50.126] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:50.127] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:55.136] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:38:55.136] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:00.137] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:00.137] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:05.148] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:05.149] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:10.153] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:10.153] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:15.162] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:15.162] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:20.168] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:20.168] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:25.178] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:25.179] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:30.182] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:30.183] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:35.193] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:35.194] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:40.198] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:40.199] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:45.206] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:45.206] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:50.209] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:50.210] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:55.219] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:39:55.220] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:00.222] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:00.222] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:05.232] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:05.233] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:10.236] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:10.237] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:15.245] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:15.246] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:20.248] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:20.249] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:25.255] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:25.255] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:30.258] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:30.259] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:35.266] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:35.267] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:40.270] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:40.271] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:45.279] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:45.280] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:50.283] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:50.283] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:55.287] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:40:55.288] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:00.290] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:00.291] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:05.295] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:05.295] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:10.298] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:10.299] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:15.307] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:15.307] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:20.308] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:20.308] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:25.316] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:25.316] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:30.317] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:30.317] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:35.322] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:35.322] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:40.324] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:40.324] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:45.331] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:45.331] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:50.333] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:50.334] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:55.338] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:41:55.339] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:00.341] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:00.342] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:05.346] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:05.346] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:10.348] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:10.349] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:15.355] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:15.355] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:20.356] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:20.357] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:25.360] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:25.361] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:30.361] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:30.362] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:35.366] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:35.367] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:40.367] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:40.368] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:45.373] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:45.373] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:50.382] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:50.383] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:55.386] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:42:55.386] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:00.389] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:00.390] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:05.395] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:05.396] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:10.403] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:10.404] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:15.406] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:15.407] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:20.416] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:20.417] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:25.419] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:25.420] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:30.429] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:30.430] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:35.432] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:35.433] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:40.436] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:40.437] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:45.439] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:45.440] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:50.449] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:50.450] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:55.452] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:43:55.453] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:00.455] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:00.455] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:05.458] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:05.458] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:10.466] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:10.466] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:15.469] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:15.469] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:20.476] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:20.477] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:25.479] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:25.480] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:30.486] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:30.486] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:35.488] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:35.488] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:40.496] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:40.496] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:45.500] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:45.500] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:50.509] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:50.509] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:55.512] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:44:55.513] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:00.516] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:00.517] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:05.519] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:05.520] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:10.528] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:10.528] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:15.532] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:15.532] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:20.540] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:20.540] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:25.543] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:25.543] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:30.551] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:30.552] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:35.554] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:35.554] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:40.562] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:40.562] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:45.564] [error] mpd: Failed to connect to MPD: Connection refused
+[2023-06-04 13:45:45.565] [error] mpd: Failed to connect to MPD: Connection refused
