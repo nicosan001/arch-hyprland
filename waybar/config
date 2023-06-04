@@ -27,7 +27,7 @@
 	"scroll-step": 5,
 	"format": "{icon} {volume}%",
 	"format-icons": {
-		"default": ["奄", "奔", "墳"]
+		"default": ["", "", ""]
 	},
 	"on-click": "pavucontrol"
      },
@@ -76,8 +76,8 @@
      "idle_inhibitor": {
         "format": "{icon}",
         "format-icons": {
-            "activated": "Π",
-            "deactivated": "Σ",
+            "activated": "",
+            "deactivated": "",
         },
         "tooltip": false,
      },
