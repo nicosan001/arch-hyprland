@@ -12,6 +12,11 @@ fi
 export ZSH="$HOME/.oh-my-zsh"
 export PATH="$HOME/.local/bin:$HOME/.emacs.d/bin:$HOME/.config/hypr/scripts:$HOME/.config/emacs/bin:$PATH"
 
+# XDG dirs
+export XDG_DATA_HOME="$HOME/.local/share"
+export XDG_CONFIG_HOME="$HOME/.config"
+export XDG_STATE_HOME="$HOME/.local/state"
+
 #export SDL_VIDEODRIVER=wayland
 export _JAVA_AWT_WM_NONREPARENTING=1
 #export QT_QPA_PLATFORMTHEME=qt5ct
