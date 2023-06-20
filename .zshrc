@@ -143,6 +143,7 @@ alias ptenable="powertop --auto-tune"
 function auto_add_keys {
   {
     ssh-add ~/.ssh/github
+    ssh-add ~/.ssh/github_2
     ssh-add ~/.ssh/homeserver
   } &> /dev/null
   echo "Keys added"
