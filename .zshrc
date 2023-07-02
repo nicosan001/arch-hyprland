@@ -124,6 +124,9 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+SUDO_EDITOR=/usr/bin/nvim
+export SUDO_EDITOR
+
 
 alias ls="exa -lah --icons --git"
 alias l="exa -lah --icons --git"
