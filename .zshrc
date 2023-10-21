@@ -5,18 +5,25 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
   source "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh"
 fi
 
+# fix lang for azote
+export LANGUAGE=en_US:en
+unset LANG
+source /etc/profile.d/locale.sh
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
-export PATH="$HOME/.local/bin:$HOME/.emacs.d/bin:$HOME/.config/hypr/scripts:$HOME/.config/emacs/bin:$PATH"
+export PATH="$HOME/.local/bin:$HOME/.emacs.d/bin:$HOME/.config/hypr/scripts:$HOME/.config/emacs/bin:/opt/android-sdk/tools:$PATH"
 
 # XDG dirs
 export XDG_DATA_HOME="$HOME/.local/share"
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_CACHE_HOME="$HOME/.cache"
 export XDG_STATE_HOME="$HOME/.local/state"
+export ANDROID_SDK_ROOT=~/Android/Sdk
+export ANDROID_AVD_HOME=~/.android/avd
 
 #export SDL_VIDEODRIVER=wayland
 export _JAVA_AWT_WM_NONREPARENTING=1
@@ -184,3 +191,4 @@ fi
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+# source ~/powerlevel10k/powerlevel10k.zsh-theme
