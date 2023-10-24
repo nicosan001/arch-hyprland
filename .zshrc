@@ -147,6 +147,7 @@ alias yt4="ytfzf -t -s --thumb-viewer=swayimg-hyprland --pages=4"
 alias lg="lazygit"
 alias reflector-opt="sudo reflector --latest 20 --protocol https --sort rate --save /etc/pacman.d/mirrorlist"
 alias ptenable="powertop --auto-tune"
+alias android-emu="QT_QPA_PLATFORM=xcb ~/Android/Sdk/emulator/emulator -avd"
 
 # auto add some keys
 
