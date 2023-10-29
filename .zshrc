@@ -15,7 +15,7 @@ source /etc/profile.d/locale.sh
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
-export PATH="$HOME/.local/bin:$HOME/.emacs.d/bin:$HOME/.config/hypr/scripts:$HOME/.config/emacs/bin:/opt/android-sdk/tools:$PATH"
+export PATH="$HOME/.local/bin:$HOME/.emacs.d/bin:$HOME/.config/hypr/scripts:$HOME/.config/emacs/bin:/opt/android-sdk/tools:$home/.config/anaconda3/bin:$PATH"
 
 # XDG dirs
 export XDG_DATA_HOME="$HOME/.local/share"
