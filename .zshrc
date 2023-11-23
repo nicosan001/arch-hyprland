@@ -148,6 +148,7 @@ alias lg="lazygit"
 alias reflector-opt="sudo reflector --latest 20 --protocol https --sort rate --save /etc/pacman.d/mirrorlist"
 alias ptenable="powertop --auto-tune"
 alias android-emu="QT_QPA_PLATFORM=xcb ~/Android/Sdk/emulator/emulator -avd"
+alias start-kcc="QT_QPA_PLATFORM=xcb kcc"
 
 # auto add some keys
 
