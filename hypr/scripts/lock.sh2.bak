@@ -1,0 +1,29 @@
+#!/bin/sh
+swaylock \
+  --indicator-radius 160 \
+  --indicator-thickness 20 \
+  --inside-color 00000000 \
+  --inside-clear-color 00000000 \
+  --inside-ver-color 00000000 \
+  --inside-wrong-color 00000000 \
+  --key-hl-color ebdbb2 \
+  --bs-hl-color 7c6f64 \
+  --ring-color 7c6f64 \
+  --ring-clear-color 7c6f64 \
+  --ring-wrong-color fb4934 \
+  --ring-ver-color 83a598 \
+  --line-uses-ring \
+  --line-color 00000000 \
+  --font 'NotoSans Nerd Font Mono:style=Thin,Regular 40' \
+  --text-color 00000000 \
+  --text-clear-color 00000000 \ #"$color2" \
+  --text-wrong-color 00000000 \ #"$color5" \
+  --text-ver-color 00000000 \ #"$color4" \
+  --separator-color 00000000 \
+  --screenshot \
+  --grace 10 \
+  --fade-in 10 \
+  --effect-blur 10x10 \
+  --effect-compose "16.7%x29.6%;center;$HOME/icons/tux.png" \
+  --daemonize
+"$@"

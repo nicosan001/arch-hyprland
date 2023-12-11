@@ -10,10 +10,10 @@ case $op in
         suspend)
                 systemctl $op
                 ;;
-        lock)
-		            ~/.config/sway/scripts/lock.sh
-                ;;
         logout)
                 hyprctl dispatch exit
+                ;;
+        lock)
+		$HOME/.config/hypr/scripts/lock.sh
                 ;;
 esac
